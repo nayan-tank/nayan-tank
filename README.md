@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **DevOps, Cloud Security**
 
-- 👨‍💻 All of my projects are available at [https://github.com/nayan-tank](https://github.com/nayan-tank)
+- 👨‍💻 All of my projects are available at [https://github.com/nayan-tank](Nayan)
 
-- 📝 I regularly write articles on [https://hashnode.com/@nayantank](https://hashnode.com/@nayantank)
+- 📝 I regularly write articles on [https://hashnode.com/@nayantank](Nayan's Blog)
 
 - 💬 Ask me about **DevOps, Cloud,**
 
@@ -16,7 +16,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/nayan-tank" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nayan-tank" height="30" width="40" /></a>
-<a href="https://hashnode.com/https://hashnode.com/@nayantank" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="https://hashnode.com/@nayantank" height="30" width="40" /></a>
+<a href="https://hashnode.com/@nayantank" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="https://hashnode.com/@nayantank" height="30" width="40" /></a>
 <a href="https://medium.com/@nayantank" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@nayantank" height="30" width="40" /></a>
 </p>
 
