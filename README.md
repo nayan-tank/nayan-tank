@@ -1,7 +1,7 @@
 <h1 align="center">Hi there!👋</h1>
 <h3 align="center">I'm Nayan, a DevOps Engineer from India.  </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nayan-tank&label=Profile%20views&color=0e75b6&style=flat" alt="nayan-tank" /> </p>
+ <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=nayan-tank&label=Profile%20views&color=0e75b6&style=flat" alt="nayan-tank" /> </p> -->
 
 - Talk about **DevOps, Cloud,**
 - Shoot me on <a href='mailto:nayantank0903@gmail.com'> Email </a>
