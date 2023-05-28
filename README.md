@@ -1,10 +1,9 @@
 <h1 align="center">Hi there!👋</h1>
-<h3 align="center">I'm <a href='https://linkedin.com/in/nayan-tank'> Nayan </a>,a DevOps Engineer from India.  </h3>
+<h3 align="center">I'm Nayan, a DevOps Engineer from India.  </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nayan-tank&label=Profile%20views&color=0e75b6&style=flat" alt="nayan-tank" /> </p>
 
-- 💬 Talk about **DevOps, Cloud,**
-- 📫 Connect me on  **<a href='https://linkedin.com/in/nayan-tank'> Linkedin </a>**
+- Talk about **DevOps, Cloud,**
 - Shoot me on <a href='mailto:nayantank0903@gmail.com'> Email </a>
 
 <h3 align="left">Connect with me:</h3>
