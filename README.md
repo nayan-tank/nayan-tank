@@ -5,7 +5,7 @@
 
 - 💬 Talk about **DevOps, Cloud,**
 - 📫 Connect me on  **<a href='https://linkedin.com/in/nayan-tank'> Linkedin </a>**
-- Shoot me on <a href='mailto=nayantank0903@gmail.com'> Email </a>
+- Shoot me on <a href='mailto:nayantank0903@gmail.com'> Email </a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
