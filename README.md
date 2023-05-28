@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **DevOps, Cloud Security**
 
-- 👨‍💻 All of my projects are available at [github.com/nayan-tank](github.com/nayan-tank)
+- 👨‍💻 All of my projects are available at [github.com/nayan-tank](nayan-tank)
 
-- 📝 I regularly write articles on [hashnode.com/@nayantank](hashnode.com/@nayantank)
+- 📝 I regularly write articles on [hashnode.com/@nayantank](https://hashnode.com/@nayantank)
 
 - 💬 Ask me about **DevOps, Cloud,**
 
