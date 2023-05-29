@@ -4,7 +4,7 @@
  <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=nayan-tank&label=Profile%20views&color=0e75b6&style=flat" alt="nayan-tank" /> </p> -->
 
 - Talk about **DevOps, Cloud,**
-- Shoot me on <a href='mailto:nayantank0903@gmail.com'> Email </a>
+- Shoot me an <a href='mailto:nayantank0903@gmail.com'> Email </a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
