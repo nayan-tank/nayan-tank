@@ -16,8 +16,8 @@
       alt="nayan-tank"
       height="30"
       width="40"
-  /></a>
-
+  />
+  </a>
   <a href="https://hashnode.com/@nayantank" target="blank"
     ><img
       align="center"
@@ -34,7 +34,8 @@
       alt="@nayantank"
       height="30"
       width="40"
-  /></a>
+  />
+  </a>
 </p>
 
 <h3 align="left">DevOps :</h3>
