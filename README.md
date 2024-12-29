@@ -16,8 +16,7 @@
       alt="nayan-tank"
       height="30"
       width="40"
-  />
-  </a>
+  /></a>
   <a href="https://hashnode.com/@nayantank" target="blank"
     ><img
       align="center"
@@ -25,8 +24,7 @@
       alt="https://hashnode.com/@nayantank"
       height="30"
       width="40"
-  />
-</a>
+  /></a>
   <a href="https://medium.com/@nayantank" target="blank"
     ><img
       align="center"
