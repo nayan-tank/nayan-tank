@@ -1,5 +1,5 @@
 <h1 align="center">Hi there!👋 I'm Nayan</h1>
-<h3 align="center">A DevOps Engineer from India.</h3>
+<h3 align="center">A DevSecOps Engineer from India 🇮🇳 </h3>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=nayan-tank&label=Profile%20views&color=0e75b6&style=flat" alt="nayan-tank" /> /p> -->
 
@@ -14,7 +14,7 @@
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="nayan-tank"
-      height="30"
+      height="50"
       width="40"
   /></a>
   <a href="https://hashnode.com/@nayantank" target="blank"
@@ -22,7 +22,7 @@
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg"
       alt="https://hashnode.com/@nayantank"
-      height="30"
+      height="50"
       width="40"
   /></a>
   <a href="https://medium.com/@nayantank" target="blank"
@@ -30,163 +30,57 @@
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg"
       alt="@nayantank"
-      height="30"
+      height="50"
       width="40"
   />  </a>
 </p>
 
-<h3 align="left">DevOps :</h3>
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-  <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
-    alt="aws"
-    width="40"
-    height="40"
-  /></a>
-<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-  <img
-    src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg"
-    alt="bash"
-    width="40"
-    height="40"
-  /></a>
-<a href="" target="_blank" rel="noreferrer">
-  <img
-    src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg"
-    alt="ansible"
-    width="40"
-    height="40"
-  /></a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-  <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
-    alt="docker"
-    width="40"
-    height="40"
-  /></a>
-<a href="https://www.terraform.io/" target="_blank" rel="noreferrer">
-  <img
-    src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg"
-    alt="terraform"
-    width="40"
-    height="40"
-  /></a>
+<h3 align="left">Cloud Platform:</h3>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,gcp,azure" />
+  </a>
+</p>
+
+<h3 align="left">DevOps Tools:</h3>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,linux,vim,python,kubernetes,docker,ansible,terraform,cloudflare,gitlab,elasticsearch" />
+    <img src="https://skillicons.dev/icons?i=bitbucket,jenkins,bash,powershell,prometheus,grafana,openshift,nginx,kali,githubactions" />
+  </a>
+</p>
+
+<h3 align="left">Development Tools:</h3>
+<div align="left">
+    <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vim,windows" />
+    <img src="https://skillicons.dev/icons?i=react,heroku,jquery,npm,postman,pycharm,sublime,ubuntu" />
+    <img src="https://skillicons.dev/icons?i=fastapi,rabbitmq,kafka,stackoverflow"/><br>
+</div>
+
+  
+<h3 align="left">Languages:</h3>
+<p align="leftr">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,go" />
+  </a>
+</p>
 
 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-  <img
-    src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
-    alt="git"
-    width="40"
-    height="40"
-  /></a>
-<a href="https://www.jenkins.io" target="_blank" rel="noreferrer">
-  <img
-    src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg"
-    alt="jenkins"
-    width="40"
-    height="40"
-  /></a>
-<a href="https://kubernetes.io" target="_blank" rel="noreferrer">
-  <img
-    src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg"
-    alt="kubernetes"
-    width="40"
-    height="40"
-  /></a>
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-  <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
-    alt="linux"
-    width="40"
-    height="40"
-  />
-  <h3 align="left">Languages:</h3>
-  <p align="left">
-    <a href="https://www.python.org" target="_blank" rel="noreferrer">
-      <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-        alt="python"
-        width="40"
-        height="40"
-      />    </a>
-    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-      <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
-        alt="c"
-        width="40"
-        height="40"
-      />    </a>
-    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-      <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
-        alt="cplusplus"
-        width="40"
-        height="40"
-      />    </a>
-    <a href="https://golang.org" target="_blank" rel="noreferrer">
-      <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg"
-        alt="go"
-        width="40"
-        height="40"
-      />    </a>
-    <a
-      href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
-      target="_blank"
-      rel="noreferrer"
-    >
-      <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-        alt="javascript"
-        width="40"
-        height="40"
-      />    </a>
-    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-      <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
-        alt="typescript"
-        width="40"
-        height="40"
-      />    </a>
-  </p>
+<h3 align="left">Backend Frameworks:</h3>
+<div align="leftr">
+  <img src="https://skillicons.dev/icons?i=nodejs,django,php" />
+</div>
 
-  <h3 align="left">Backend Frameworks:</h3>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-      alt="nodejs"
-      width="40"
-      height="40"
-    />  </a>
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://cdn.worldvectorlogo.com/logos/django.svg"
-      alt="django"
-      width="40"
-      height="40"
-    />  </a>
 
-  <h3 align="left">Databases:</h3>
-</a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-  <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
-    alt="mongodb"
-    width="40"
-    height="40"
-  /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-  <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-    alt="mysql"
-    width="40"
-    height="40"
-  /></a>
-<a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
-  <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg"
-    alt="oracle"
-    width="40"
-    height="40"
-  /></a>
+<h3 align="left">Databases:</h3>
+<div align="left">
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,postgres,redis,dynamodb,firebase," />
+</div>
+
+<!-- <hr/>
+<div align="left">
+  <h2>🔥 My Stats 🔥</h2>
+  <br>
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=nayan-tank&theme=dark&background=000000" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nayan-tank&layout=compact&theme=dark&background=000000" alt="Most Used Languages"/>
+</div> -->
